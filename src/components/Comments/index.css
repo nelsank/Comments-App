@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: 10%;
+  margin-top: 10%;
+}
+
+.heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+}
+
+.form-description {
+  color: #dee0e3;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+
+.input-style {
+  color: #475569;
+  font-family: 'Roboto';
+  padding: 7px;
+}
+
+.textarea-style {
+  color: #475569;
+  font-family: 'Roboto';
+  padding: 7px;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+}
+
+.input-heading{
+  display: flex;
+  flex-direction: column;
+}
